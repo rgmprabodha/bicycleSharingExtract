@@ -1,0 +1,3302 @@
+@prefix geo:   <https://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ex:    <http://www.example.com/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix j.0:   <http://xmlns.com/foaf/0.1/> .
+
+<http://localhost:3030/Station:LYON:8006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place du 8 mai 1945" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10079>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Anatole France / Barbusse" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2042>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Joffre / Vaubecour" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3043>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Rouget de L'Isle" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5045>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Valdo / Rivet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10049>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Pressensé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9049>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sergent Berthet / Gorge de Loup" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:95b5a317f03d2f8b24a47b5d28a2de52edf63a7a>
+        a          rdfs:Class ;
+        rdf:value  "24" ;
+        j.0:name   "Dunkerque - Rocroy" ;
+        geo:lat    "48.880726"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.351464"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gailleton" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:105>
+        a                       rdfs:Class ;
+        rdf:value               "32" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638144" ;
+        ex:num_bikes_available  "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Jaures" ;
+        geo:lat                 "45.440725"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.387295"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3013>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Antoinette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4014>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Philippe de Lassalle / Pillement" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5015>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Fulchiron" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Viabert / Thiers" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7017>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Beauvoir / Marot" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10019>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "4 Août / Racine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10080>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vaillant / Perroncel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:24001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ecully Mairie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3085>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sacré Coeur" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9050>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Allée de l'Europe" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9020>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bourbonnais" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:117>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637851" ;
+        ex:num_bikes_available  "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Chavanelle" ;
+        geo:lat                 "45.435109"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.391962"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1023>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Croix Rousse / Perfetti" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "République / Maupin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4026>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Birmingham" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10116>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Blum / Faÿs" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6028>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Récamier / Tête d'Or" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10092>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Montgolfier / Château Gaillard" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:17002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "St Fons 4 chemins" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3097>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Augagneur / Fosse aux Ours" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8061>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Stade Vuillermet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:33001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Albigny Gare" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:34002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Neuville Stade" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3067>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Hachette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7030>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quartier Général Frère" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10032>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Primat / Decorps" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9032>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place du Port Mouton" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Antonin Gourju" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quai Lassagne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:129>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637650" ;
+        ex:num_bikes_available  "9"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Roannelle" ;
+        geo:lat                 "45.4357171"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.3829931"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3037>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Paul Bert / Garibaldi" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:11003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "La Rochette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "INSA" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Université Lyon III" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie du 9e" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:12004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Palais des Sports" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Meissonier" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de l'Hippodrome" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place d'Arsonval" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Clos Savaron" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Ennemond Fousseret" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10074>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Zola / Passage Rey" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:130>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638111" ;
+        ex:num_bikes_available  "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Bicentenaire" ;
+        geo:lat                 "45.420286"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.392776"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3079>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Louise" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5040>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Crépu" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cité Internationale / Tête d'Or nord" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9044>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Masset / Saint-Pierre de Vaise" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie du 6e" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place des Pavillons" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10014>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Laurent Bonnevay - Astroballe" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9014>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quai du Commerce" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3080>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Part-Dieu / Villette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:20003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Oullins Pont Blanc" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10086>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Anatole France" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3050>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Friche RVI" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8055>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Romain / Berliet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10056>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "11 novembre / Gaston Berger" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:112>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638020" ;
+        ex:num_bikes_available  "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "13"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Tréfilerie" ;
+        geo:lat                 "45.427296"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.390669"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Tabareau" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10111>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Charles Hernu" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6023>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quai Sarrail" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bancel / Chevreul" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8025>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Dumont / Jouvet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:124>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637348" ;
+        ex:num_bikes_available  "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "9"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Janin" ;
+        geo:lat                 "45.448458"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.39492"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cité Internationale" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8037>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cazeneuve" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gryphe / Montesquieu" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10038>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Condorcet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bellecour / République" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Jean" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Commandant Arnaud" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Salengro / Vaillant" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Edgar Quinet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gerland" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Frères Lumière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "L'Ile Barbe" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3044>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quai Augagneur" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2013>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Célestins" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ampère / Bourse" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:106>
+        a                       rdfs:Class ;
+        rdf:value               "32" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638023" ;
+        ex:num_bikes_available  "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "31"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Dorian" ;
+        geo:lat                 "45.43836"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.388435"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie du 5e" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6017>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lafayette / Inkermann" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7018>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lycée Louise Labé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:23001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Promenade Tuileries" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3086>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Feuillat / Lacassagne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8050>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bataille / Krüger" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9051>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Andréi Sakharov" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:950d31868a5a52b2034b466b0f5af7444a181703>
+        a          rdfs:Class ;
+        rdf:value  "26" ;
+        j.0:name   "Pyrénées - Ménilmontant" ;
+        geo:lat    "48.8693268535238"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.395084574818611"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "GrandClément" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8020>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Moulin à Vent" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2025>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mercière / Ferrandière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rouville" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:118>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637847" ;
+        ex:num_bikes_available  "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "J. Moulin" ;
+        geo:lat                 "45.437404"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.392469"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10117>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "La Pérralière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:16002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vénissieux Levy / Vienne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:17003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "St Fons Théatre" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7061>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jaurès / Université" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10063>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Perrin / Jean Jaurès" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7031>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jaurès / Gerland" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9033>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gorge de Loup" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Aveyron" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2037>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place des Archives" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3038>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vivier Merle / Paul Bert" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Gabriel Péri" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Ambroise Courtois" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Valmy" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Subsistances" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Patinoire Charlemagne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Institut Lumière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jacquart / Denfert-Rochereau" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10075>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gabriel Péri" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "L'Homme de la Roche" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6042>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cité Internationale / Résidence hôtelière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10045>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Anatole France / Alsace" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:101>
+        a                       rdfs:Class ;
+        rdf:value               "32" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637989" ;
+        ex:num_bikes_available  "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "27"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Châteaucreux" ;
+        geo:lat                 "45.442972"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.398855"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Puvis de Chavannes" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7013>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Halle Tony Garnier" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9015>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Cyr" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:28001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Simon / Leclerc" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3081>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Part-Dieu / Francfort" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10087>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Baratin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3051>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Henri" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5053>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Just" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7055>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Servant / Jaboulay" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8056>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Delore / Audibert et Lavirotte" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2020>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Musée des Confluences" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:113>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637843" ;
+        ex:num_bikes_available  "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Centre 2" ;
+        geo:lat                 "45.42342"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.392292"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de la Ferrandière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4022>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de la Croix-Rousse" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10112>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de la Reconnaissance" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Tronchet / Anatole France" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7025>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lacour / Artillerie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10027>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie de Villeurbanne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1031>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de la Paix" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:125>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637273" ;
+        ex:num_bikes_available  "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Soleil" ;
+        geo:lat                 "45.450533"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.403566"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3033>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Paul Bert / Vivier Merle" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Musée d'art contemporain" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10039>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bouvier" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8038>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Albert Thomas / Villon" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Terreaux / Terme" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bellecour / St Exupéry" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Part-Dieu / Deruelle" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Hénon" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Paul" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Boulevard des Belges" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Farge / Ayasse" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Beauvisage / Préssensé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Berlioz / Chalinel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9040>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de la Rhodiacéta" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5047>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Albéric Pont" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7049>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cité Scolaire Internationale" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9010>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Piscine de Vaise" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:77ccdefca4c5ff3059b1c947ff067758836d7b01>
+        a          rdfs:Class ;
+        rdf:value  "32" ;
+        j.0:name   "Gare de l'Est - Faubourg-Saint-Martin" ;
+        geo:lat    "48.87564264747718"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.3594588041305546"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3100>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sisley / Dauphiné" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2014>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jacobins" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1013>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Martinière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:107>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638156" ;
+        ex:num_bikes_available  "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Clapier" ;
+        geo:lat                 "45.436903"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.378789"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3015>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Servient / Garibaldi" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:22001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ste Foy Place Saint-Luc" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3087>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Part-Dieu / Garibaldi" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8051>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Hôpital Saint-Jean de Dieu" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9052>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Balmont" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7020>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Parc de Gerland" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Paul Santy" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9022>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Masaryk / Saint-Cyr" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2026>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "République / Paufique" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:119>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637481" ;
+        ex:num_bikes_available  "2"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "22"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Fourneyron" ;
+        geo:lat                 "45.4395"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.395669"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5029>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Gerson" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10118>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Voyant / Chambord" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:14001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bron Centre Nautique" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:15002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "St Priest Cité Berliet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:16003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Joliot Curie / Sembat" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3099>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Sainte Anne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:a519eb6af8fb99df5f31e39f92cf3fd92fdbb809>
+        a          rdfs:Class ;
+        rdf:value  "25" ;
+        j.0:name   "Sibelle - Alésia" ;
+        geo:lat    "48.826701758539215"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.3384983465075493"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7062>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Garibaldi / Domer" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10064>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "4 août 1789" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:120>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637479" ;
+        ex:num_bikes_available  "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "St Francois" ;
+        geo:lat                 "45.439538"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.403407"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3069>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Dauphiné / Saint-Maximin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5030>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Charcot / Résidence universitaire" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6031>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lafayette / Corneille" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10034>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Docteur Damidot" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8033>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Berthelot / Cazeneuve" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Tonkin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3039>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Bir-Hakeim" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gare des Brotteaux" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Universités Lyon III / Lyon II" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gare de Vaise" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Claude Bernard Lyon I" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:11005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Passerelle de la Paix" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Antonin Poncet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Musée Africain" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3070>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rebatel / Saint-Maximin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:207f70c97153c86995ed45b93dae18dbb8bfd1bb>
+        a          rdfs:Class ;
+        rdf:value  "30" ;
+        j.0:name   "Amelot - Saint-Sébastien" ;
+        geo:lat    "48.86114216276092"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.367799618107727"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Boussange / Austerlitz" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6043>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cité Internationale / Cinéma" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10046>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Charmettes / Zola" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9046>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mangini" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:102>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637605" ;
+        ex:num_bikes_available  "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Chaléassiere" ;
+        geo:lat                 "45.453601"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.383062"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Joannès Ambre" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10101>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Einstein / 11 novembre 1918" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de la paix" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7014>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Marseille / Félissent" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8015>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jean XXIII" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:27001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Collonges Gare" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:28002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gambetta / Ferry" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3082>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Bahadourian" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10088>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "4 août 1789 / Pressensé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5054>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Champvert" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10058>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "métro Flachet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7056>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Raspail" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8057>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vienne  / Montagny" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bayard / Rambaud" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1020>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Terreaux / Chenavard" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:114>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638152" ;
+        ex:num_bikes_available  "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "13"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Bellevue" ;
+        geo:lat                 "45.415579"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.393322"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4023>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Pont Masaryk" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10113>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gare de Villeurbanne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6025>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place d'Helvétie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7026>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Baldassini / Gerland" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10028>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ecole de musique" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:19001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "St Genis L. Médiathèque" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3094>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Villette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1032>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Pizay" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:126>
+        a                       rdfs:Class ;
+        rdf:value               "32" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637506" ;
+        ex:num_bikes_available  "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "24"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Hôp. Nord" ;
+        geo:lat                 "45.479487"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.362541"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3034>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Garibaldi / Pensionnat" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "La Salette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6037>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cité Internationale / Interpol" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7038>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Stalingard" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8039>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Pierre Delore" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:12001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "La Soie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:0dc79f9e33210adac313f4ed713e7c50dab02995>
+        a          rdfs:Class ;
+        rdf:value  "41" ;
+        j.0:name   "Champ de Mars - Cler" ;
+        geo:lat    "48.856691550115315"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.306646779179573"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Opéra" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Ampère" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bourse du travail" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Bertone" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quai Romain Rolland" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Masséna" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jean Jaurès / Guillotière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jean XXIII / Mermoz" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10071>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lycée Marie Curie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Kimmerling" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8040>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ambroise Paré" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Carret / Sédaillan" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gratte-Ciel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8010>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Mendès France" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Conservatoire" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3101>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Patinoire Baraban" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2015>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "République / Stella" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:108>
+        a                       rdfs:Class ;
+        rdf:value               "32" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638156" ;
+        ex:num_bikes_available  "14"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "18"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Peuple" ;
+        geo:lat                 "45.436265"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.387539"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Liberté / Part-Dieu" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4017>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place des tapis" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:21001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "La Mulatière Aquarium" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10083>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Château Gaillard / Bienvenus" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3088>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Guichard" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10053>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rossellini / 11 Novembre" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8052>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Clinique Montplaisir" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3058>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place du Lac" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6020>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Musée Guimet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Challemel Lacour / Gerland" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10119>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Villeurbanne Saint-Jean" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:30001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rillieux Canellas" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5031>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ménival / Joliot Curie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8034>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Berthelot / Villon" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10120>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Salengro / Descartes" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6032>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Préfecture / Sarrail" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7033>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Luc / Saint-Joseph" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Boiron Grangé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2039>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Charité / Récamier" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "11 novembre" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Varillon (funiculaire Saint-Just)" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Porte des Enfants du Rhône" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gambetta / Garibaldi" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie du 8e" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Confluence / Docks" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3071>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "BioParc" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4042>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Grégory Coupet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6044>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Charmettes / Bellecombe" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7045>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Parc des Berges" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10047>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lherminier / Pressensé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2010>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Confluence / Darse" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:103>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637904" ;
+        ex:num_bikes_available  "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "12"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Carnot" ;
+        geo:lat                 "45.447093"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.385487"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Part-Dieu / Cuirassiers" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Adrien Godien" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10102>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "DOUA / Gaston Berger" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7015>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Techsud" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3083>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Les Halles" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10089>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Colin / Perroncel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3053>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gambetta / Jusserand" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5055>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Buyer / Apollinaire" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8058>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Longefer / Kruger" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7057>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jaurès / Bollier" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10059>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Anatole France / Zola" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2022>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Carnot" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Terreaux / Beaux Arts" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:115>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638155" ;
+        ex:num_bikes_available  "21"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "3"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Congrès" ;
+        geo:lat                 "45.426972"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.404048"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lyon Métropole" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10114>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bel Air / Les Brosses" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9029>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint Pierre de Vaise" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:18001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Europe / Voltaire" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10060>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint Exupéry" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10030>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Greuze" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:127>
+        a                       rdfs:Class ;
+        rdf:value               "24" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637293" ;
+        ex:num_bikes_available  "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "16"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "J. Marc" ;
+        geo:lat                 "45.4732778"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.3665277"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Philomène Magnin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7039>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Guillotière / Madeleine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:11001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Gare de Cuire" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:12002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Poudrette / La Soie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Sathonay" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Perrache / Carnot" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saxe / Gambetta" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Philippe de Lassalle" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de Trion" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Jules Ferry" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7009>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jean Jaurès" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10072>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jacques Brel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:aba71824351baaaa7d5ca11fab9e980e9c152237>
+        a          rdfs:Class ;
+        rdf:value  "19" ;
+        j.0:name   "Notre-Dame-des-Champs - Stanislas" ;
+        geo:lat    "48.84479928858768"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.329337755887181"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Etats-Unis / Viviani" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9042>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vaise Docks" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Lebret" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7010>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Centre Berthelot" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Zola / France" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3102>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Docteur Long / Aubépins" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Regaud" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:109>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638021" ;
+        ex:num_bikes_available  "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "A. Thomas" ;
+        geo:lat                 "45.4328"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.388035"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3017>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saxe / Dunoir" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:20001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Oullins Gare" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10084>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Doua / Avenue des Arts" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3089>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Trarieux / Lacassagne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5050>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Théâtre Romain" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8053>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Lumière / Trouilhet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7052>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Parc Blandan" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10054>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Stalingrad / Meliès" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:aed9bd99edeb4013e56b4dbaabe03e140e91b782>
+        a          rdfs:Class ;
+        rdf:value  "28" ;
+        j.0:name   "Tertres - Fontaine" ;
+        geo:lat    "48.787553654715644"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.306235730648041"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:110>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637491" ;
+        ex:num_bikes_available  "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "A. France" ;
+        geo:lat                 "45.43065"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.389752"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Maisons Neuves" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6021>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Garibaldi" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7022>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jaurès / Lagrange" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8023>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mermoz / Pinel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2028>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sainte-Blandine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3029>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Aristide Briand" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3090>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vinatier" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:14003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bron Place Curial" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:16005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vénissieux Gare" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:30002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rillieux Loup Pendu" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7064>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "CROUS" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:76b71d46f342fb32049799e6206295cab8a82f9d>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Verdun - Pierre et Marie Curie" ;
+        geo:lat    "48.81273885275313"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.3707932870538655"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:122>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638008" ;
+        ex:num_bikes_available  "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "9"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Terrasse" ;
+        geo:lat                 "45.46502"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.37874"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5032>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Ménival / Eisenhower" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10121>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Parc du Centre" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Stalingrad" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6033>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Créqui / Lafayette" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7034>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Piscine du Rhône" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sans Souci" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Conservatoire bis" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place des Compagnons de la chanson" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Avenue Verguin" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie du 7e" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Charpennes" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Théâtre Nouvelle Génération" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sala / Charité" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5044>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Champvert" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6045>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Brotteaux / Vauban" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7046>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place de l'Ecole " ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10048>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Marengo" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sala / Rue du Plat" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:104>
+        a                       rdfs:Class ;
+        rdf:value               "12" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637748" ;
+        ex:num_bikes_available  "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "7"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Jacquard" ;
+        geo:lat                 "45.441888"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.382492"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3012>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place du Château" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10103>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "DOUA / Rue des sports" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:PARIS:bd7ee57ccb5c9c732fd32c6bf4544ad04a13b477>
+        a          rdfs:Class ;
+        rdf:value  "43" ;
+        j.0:name   "Cambrai - Benjamin Constant" ;
+        geo:lat    "48.89594736851349"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "2.381133802246315"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Saint Louis" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10018>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Tolstoï / Florian" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3084>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Desaix" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8059>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Laennec / Pinel" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4025>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Chazière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1022>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Tolozan" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:116>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575637776" ;
+        ex:num_bikes_available  "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Villeboeuf" ;
+        geo:lat                 "45.431808"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.395127"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rockfeller / Esquirol" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5026>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Rue de la Baleine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10115>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place d'Espagne / Stade Kruger" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8029>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Etats-Unis / Lévigne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10091>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Château Gaillard / Fort" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:17001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "St Fons Arsenal" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8060>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Santy / Beauvisage" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10061>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "République" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:34001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Neuville Quai Pasteur" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3066>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Kimmerling / Faure" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10031>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Croix Luizet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8030>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Laënnec" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Childebert / Rivière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1034>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Carmélites" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:128>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638030" ;
+        ex:num_bikes_available  "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "10"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Technopole" ;
+        geo:lat                 "45.457"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.39241"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3036>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Félix Faure / Vivier Merle" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6039>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Garibaldi / Vauban" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10001>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "IUT / Feyssine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:11002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Saint-Clair" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:12003>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Vaulx Bibliothèque" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Confluence Hôtel de Région" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3006>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Villette / Saint-Antoine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Flammarion" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:5008>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Sainte-Irénée" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10073>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Institut d'Art contemporain" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8042>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Francis de Pressenssé" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6040>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Les Halles" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7041>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Domer / Chevreul" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10043>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Salengro / Feyssine" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9043>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Marietton Ouest" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7011>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Berthelot / Garibaldi" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10013>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Cusset" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:9013>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Quai Paul Sédaillan" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3103>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Danton" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:1016>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Pêcherie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2017>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "République / Ferrandière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3018>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Créqui / Voltaire" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:20002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Oullins Mairie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10055>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Condorcet / Galline" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7053>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Jaurès / Thibaudière" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8054>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Martinière / Monplaisir" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:111>
+        a                       rdfs:Class ;
+        rdf:value               "12" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638030" ;
+        ex:num_bikes_available  "4"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Tardy" ;
+        geo:lat                 "45.427396"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.386718"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6022>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Place Maréchal Lyautey" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10110>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mémoire et Société" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:8024>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mermoz / Michelet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7023>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Berthelot / Route de Vienne" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10025>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Totem" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3091>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Hôpital Neurologique" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:14004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Bron Mairie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:2030>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "République / Poulaillerie" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:SAINT-ETIENNE:123>
+        a                       rdfs:Class ;
+        rdf:value               "16" ;
+        ex:is_installed         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_renting           "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:is_returning         "1"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:last_reported        "1575638110" ;
+        ex:num_bikes_available  "11"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_bikes_disabled   "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        ex:num_docks_available  "5"^^<http://www.w3.org/2001/XMLSchema#int> ;
+        j.0:name                "Marx" ;
+        geo:lat                 "45.422732"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long                "4.409376"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:3031>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Corneille / Servient" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10122>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Verdun / Desgrand" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7035>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Marseille / Université" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:4002>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Mairie du 4e" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:10007>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Piaton / Condorcet" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:6004>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Foch" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://localhost:3030/Station:LYON:7005>
+        a          rdfs:Class ;
+        rdf:value  "0" ;
+        j.0:name   "Debourg" ;
+        geo:lat    "0.0"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        geo:long   "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
